@@ -8,3 +8,5 @@ document.write("<br>")
 document.write("<br>")
 
 document.write("La cadena: ", texto, " tiene: ",texto.length, " caracteres")
+
+cambio
