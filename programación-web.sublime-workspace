@@ -1,0 +1,603 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"M",
+				"Math"
+			],
+			[
+				"m",
+				"minimo"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"n",
+				"nombre"
+			],
+			[
+				"no",
+				"nombre_completo"
+			],
+			[
+				"functi",
+				"fas-function"
+			],
+			[
+				"functio",
+				"fab-function"
+			],
+			[
+				"function",
+				"fas-function"
+			],
+			[
+				"pro",
+				"promedio"
+			],
+			[
+				"mate",
+				"matemática"
+			],
+			[
+				"re",
+				"resultado"
+			],
+			[
+				"ope",
+				"operador2"
+			],
+			[
+				"pal",
+				"palabra"
+			],
+			[
+				"ht",
+				"html\thtml"
+			],
+			[
+				"u",
+				"ul"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"Ca",
+				"CategoriaAdmin"
+			],
+			[
+				"App",
+				"AppServicios"
+			],
+			[
+				"s",
+				"ServiciosAdmin"
+			],
+			[
+				"se",
+				"ServiciosAdmin"
+			],
+			[
+				"i",
+				"inicio"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"Ser",
+				"servicios"
+			],
+			[
+				"servici",
+				"ServicioAdmin"
+			],
+			[
+				"con",
+				"contacto"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"est",
+				"est_input"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"v",
+				"valida_usuarios"
+			],
+			[
+				"mi",
+				"mi_form"
+			],
+			[
+				"reg",
+				"Registradosadmin"
+			],
+			[
+				"Re",
+				"Registradosadmin"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"fo",
+				"forms"
+			],
+			[
+				"color-",
+				"color-scheme"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"insline",
+				"inset-inline-end"
+			],
+			[
+				"form",
+				"form"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"yel",
+				"yellowgreen"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"bl",
+				"bx-left-arrow"
+			],
+			[
+				"htm",
+				"html\thtml"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"Formu",
+				"formularioContacto"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"e",
+				"email_destino"
+			],
+			[
+				"Ad",
+				"AdminUsuarios"
+			],
+			[
+				"c",
+				"contra"
+			],
+			[
+				"t",
+				"time"
+			],
+			[
+				"bus",
+				"busqueda"
+			],
+			[
+				"Usua",
+				"UsuariosAdmin"
+			],
+			[
+				"pr",
+				"producto"
+			],
+			[
+				"list",
+				"list_filter"
+			],
+			[
+				"pedi",
+				"PedidosAdmin"
+			],
+			[
+				"Art",
+				"ArtibutosAdmin"
+			],
+			[
+				"Clie",
+				"ClientesAdmin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/santiago/proyectos/pw",
+		"/home/santiago/proyectos/pw/html"
+	],
+	"file_history":
+	[
+		"/home/santiago/proyectos/pw/html/prin.html",
+		"/home/santiago/proyectos/pw/js/cadenas.js",
+		"/home/santiago/proyectos/pw/js/practicas.js",
+		"/home/santiago/proyectos/pw/js/tarea1.js",
+		"/home/santiago/proyectos/pw/html/index.html",
+		"/home/santiago/proyectos/pw/js/código.js",
+		"/home/santiago/proyectos/pw/js/calculos.js",
+		"/home/santiago/proyectos/scripts/utilidad.sh",
+		"/home/santiago/proyectos/scripts/parametros.sh",
+		"/home/santiago/proyectos/scripts/practica-aislada.sh",
+		"/home/santiago/proyectos/scripts/bucles.sh",
+		"/home/santiago/proyectos/scripts/practica2.sh",
+		"/home/santiago/proyectos/scripts/practica1.sh",
+		"/home/santiago/proyectos/scripts/scripts.sublime-project",
+		"/home/santiago/Imágenes/Capturas de pantalla/Captura desde 2025-04-09 21-06-24.png",
+		"/home/santiago/proyectos/practicas/creadir.py",
+		"/home/santiago/proyectos/devuelta_python/trabajos con bibliotecas/módulo os/ejercicios/organizador.py",
+		"/home/santiago/proyectos/practicas/tarea2.py",
+		"/home/santiago/proyectos/practicas/repaso.py",
+		"/home/santiago/proyectos/practicas/tarea1.py",
+		"/home/santiago/proyectos/Chtml-css/html/enlaces/enlace2.html",
+		"/home/santiago/fondos",
+		"/home/santiago/proyectos/algo.py",
+		"/home/santiago/proyectos/devuelta_python/explora-archivos/menú.py",
+		"/home/santiago/proyectos/temporal/prueba/muestra/urls.py",
+		"/home/santiago/proyectos/temporal/prueba/muestra/templates/muestra/base.html",
+		"/home/santiago/proyectos/temporal/prueba/muestra/models.py",
+		"/home/santiago/proyectos/temporal/prueba/muestra/views.py",
+		"/home/santiago/proyectos/temporal/prueba/prueba/urls.py",
+		"/home/santiago/proyectos/temporal/prueba/maneja/urls.py",
+		"/home/santiago/proyectos/temporal/prueba/maneja/views.py",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/AppWeb2/urls.py",
+		"/home/santiago/respaldo/algo/otro/home.html",
+		"/home/santiago/respaldo/algo/css/gestion.css",
+		"/home/santiago/respaldo/algo/home.html",
+		"/home/santiago/respaldo/base.html",
+		"/home/santiago/respaldo/img_car.jpg",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/AppWeb2/static/AppWeb2/css/gestion.css",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/blog/templates/blog/blog.html",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/blog/models.py",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/AppServicios/templates/servicios/servicios.html",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/ProyectoWeb2/settings.py",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/AppServicios/models.py",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/blog/views.py",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/blog/urls.py",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/ProyectoWeb2/urls.py",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/AppWeb2/templates/AppWeb2/home.html",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/AppWeb2/templates/AppWeb2/base.html",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/AppWeb2/views.py",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/blog/admin.py",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/AppServicios/views.py",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/AppServicios/urls.py",
+		"/home/santiago/proyectos/temporal/prueba/muestra/admin.py",
+		"/home/santiago/proyectos/temporal/prueba/prueba/settings.py",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/AppServicios/admin.py",
+		"/home/santiago/proyectos/proyectoDjango/proyectoWeb/servicios/views.py",
+		"/home/santiago/proyectos/proyectoDjango/proyectoWeb/webProyecto.sublime-project",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/media/servicios/jojos.png",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/AppWeb2/templates/AppWeb2/servicios.html",
+		"/home/santiago/proyectos/temporal/tienda_online/gestión_pedidos/views.py",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/AppWeb2/templates/AppWeb2/tienda.html",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/AppWeb2/templates/AppWeb2/blog.html",
+		"/home/santiago/proyectos/proyectoDjango/nuevo_proyectoweb/ProyectoWeb2/AppWeb2/templates/AppWeb2/contacto.html",
+		"/home/santiago/proyectos/proyectoDjango/proyectoWeb/proyectoWeb/settings.py",
+		"/home/santiago/proyectos/Chtml-css/html/plantillas-curso/caja.html",
+		"/home/santiago/proyectos/Chtml-css/html/plantillas-curso/estilo_caja.css",
+		"/home/santiago/proyectos/Chtml-css/html/plantillas-curso/inicio.html",
+		"/home/santiago/proyectos/Chtml-css/css/estilos-curso/estilo-inicio.css",
+		"/home/santiago/proyectos/temporal/proyecto1/proyecto1/urls.py",
+		"/home/santiago/proyectos/temporal/proyecto1/pruebaa/templates/formulario_registro.html",
+		"/home/santiago/proyectos/temporal/proyecto1/pruebaa/models.py",
+		"/home/santiago/proyectos/temporal/proyecto1/pruebaa/forms.py",
+		"/home/santiago/proyectos/temporal/proyecto1/pruebaa/views.py",
+		"/home/santiago/proyectos/temporal/proyecto1/pruebaa/admin.py",
+		"/home/santiago/proyectos/temporal/tienda_online/gestión_pedidos/models.py",
+		"/home/santiago/proyectos/temporal/tienda_online/gestión_pedidos/admin.py",
+		"/home/santiago/proyectos/temporal/proyecto1/proyecto1/settings.py",
+		"/home/santiago/proyectos/temporal/proyecto1/proyecto1/views.py",
+		"/home/santiago/proyectos/temporal/tienda_online/gestión_pedidos/forms.py",
+		"/home/santiago/proyectos/temporal/tienda_online/gestión_pedidos/templates/formulario_contacto.html",
+		"/home/santiago/proyectos/temporal/tienda_online/gestión_pedidos/Env_correo/google_api_gmail.py",
+		"/home/santiago/proyectos/temporal/tienda_online/gestión_pedidos/templates/agradecimiento.html",
+		"/home/santiago/proyectos/temporal/tienda_online/gestión_pedidos/google_api_gmail.py",
+		"/home/santiago/proyectos/temporal/tienda_online/credenciales.json",
+		"/home/santiago/proyectos/temporal/tienda_online/gestión_pedidos/utils/google_api_gmail.py",
+		"/home/santiago/proyectos/temporal/tienda_online/tienda_online/credenciales.json",
+		"/home/santiago/proyectos/Chtml-css/html/plantillas-curso/info.html",
+		"/home/santiago/proyectos/Chtml-css/html/enlaces/enlace3.html",
+		"/home/santiago/proyectos/Chtml-css/html/enlaces/primero.html",
+		"/home/santiago/proyectos/Chtml-css/css/estilos-curso/estilo.css",
+		"/home/santiago/proyectos/Chtml-css/html/formularios/form.html",
+		"/home/santiago/.config/sublime-text/Packages/LiveReload/LiveReload.sublime-settings",
+		"/home/santiago/proyectos/Chtml-css/css/estilos-curso/estilo-texto.css",
+		"/home/santiago/proyectos/Chtml-css/html/plantillas-curso/practica.html",
+		"/home/santiago/C_c++/primeros_pasos/cadenas/mayus.cxx",
+		"/home/santiago/.config/sublime-text/Packages/User/abrir-html.sublime-build",
+		"/home/santiago/proyectos/Chtml-css/css/practica.html",
+		"/home/santiago/proyectos/Chtml-css/css/estilo.css",
+		"/home/santiago/proyectos/Chtml-css/css/propiedades-de-texto.html",
+		"/home/santiago/proyectos/Chtml-css/css/estilo-texto.css",
+		"/home/santiago/proyectos/Chtml-css/css/stilo.css",
+		"/home/santiago/proyectos/Chtml-css/css/index.html",
+		"/home/santiago/proyectos/Chtml-css/formularios/form.html",
+		"/home/santiago/proyectos/Chtml-css/enlaces/primero.html",
+		"/home/santiago/proyectos/Chtml-css/imagenes/prueba.html",
+		"/home/santiago/proyectos/Chtml-css/enlaces/enlace2.html",
+		"/home/santiago/proyectos/Chtml-css/enlaces/enlace3.html",
+		"/home/santiago/proyectos/Chtml-css/enlace2.html",
+		"/home/santiago/proyectos/Chtml-css/enlace3.html",
+		"/home/santiago/proyectos/Chtml-css/primero.html",
+		"/home/santiago/proyectos/proyectoDjango/proyectoWeb/proyectoWeb/urls.py",
+		"/home/santiago/proyectos/proyectoDjango/proyectoWeb/appWeb/urls.py",
+		"/home/santiago/proyectos/proyectoDjango/proyectoWeb/appWeb/views.py",
+		"/home/santiago/proyectos/proyectoDjango/proyectoWeb/appWeb/templates/appWeb/servicios.html",
+		"/home/santiago/proyectos/proyectoDjango/proyectoWeb/appWeb/templates/appWeb/tienda.html",
+		"/home/santiago/proyectos/proyectoDjango/proyectoWeb/appWeb/templates/appWeb/blog.html",
+		"/home/santiago/proyectos/proyectoDjango/proyectoWeb/appWeb/templates/appWeb/contacto.html",
+		"/home/santiago/proyectos/proyectoDjango/proyectoWeb/appWeb/templates/appWeb/home.html",
+		"/home/santiago/proyectos/prueba/proyecto-juegos/primero.py",
+		"/home/santiago/.config/sublime-text/Packages/User/entornoVV.sublime-build",
+		"/home/santiago/caca.py",
+		"/home/santiago/proyectos/prueba/proyecto-juegos/mierda.py",
+		"/home/santiago/.config/sublime-text/Packages/User/entornoV.sublime-build",
+		"/home/santiago/.config/sublime-text/Packages/User/entornoV.sublime-settings",
+		"/home/santiago/.config/sublime-text/Packages/User/python-entornoV.sublime-build",
+		"/home/santiago/proyectos/prueba/foro/chat/templates/formulario_contacto.html",
+		"/home/santiago/proyectos/prueba/foro/foro/urls.py",
+		"/home/santiago/proyectos/prueba/foro/chat/views.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "programación-web.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
