@@ -4,20 +4,20 @@
 		"selected_items":
 		[
 			[
+				"n",
+				"n_a"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
 				"M",
 				"Math"
 			],
 			[
 				"m",
 				"minimo"
-			],
-			[
-				"h",
-				"html\thtml"
-			],
-			[
-				"n",
-				"nombre"
 			],
 			[
 				"no",
@@ -341,17 +341,21 @@
 	"expanded_folders":
 	[
 		"/home/santiago/proyectos/pw",
-		"/home/santiago/proyectos/pw/html"
+		"/home/santiago/proyectos/pw/html",
+		"/home/santiago/proyectos/pw/js"
 	],
 	"file_history":
 	[
-		"/home/santiago/proyectos/pw/html/prin.html",
+		"/home/santiago/proyectos/pw/html/index.html",
+		"/home/santiago/proyectos/pw/html/punto.html",
+		"/home/santiago/proyectos/pw/js/practica2.js",
 		"/home/santiago/proyectos/pw/js/cadenas.js",
+		"/home/santiago/proyectos/pw/js/actu.js",
+		"/home/santiago/proyectos/pw/js/calculos.js",
+		"/home/santiago/proyectos/pw/html/prin.html",
 		"/home/santiago/proyectos/pw/js/practicas.js",
 		"/home/santiago/proyectos/pw/js/tarea1.js",
-		"/home/santiago/proyectos/pw/html/index.html",
 		"/home/santiago/proyectos/pw/js/código.js",
-		"/home/santiago/proyectos/pw/js/calculos.js",
 		"/home/santiago/proyectos/scripts/utilidad.sh",
 		"/home/santiago/proyectos/scripts/parametros.sh",
 		"/home/santiago/proyectos/scripts/practica-aislada.sh",
@@ -469,10 +473,7 @@
 		"/home/santiago/proyectos/prueba/proyecto-juegos/mierda.py",
 		"/home/santiago/.config/sublime-text/Packages/User/entornoV.sublime-build",
 		"/home/santiago/.config/sublime-text/Packages/User/entornoV.sublime-settings",
-		"/home/santiago/.config/sublime-text/Packages/User/python-entornoV.sublime-build",
-		"/home/santiago/proyectos/prueba/foro/chat/templates/formulario_contacto.html",
-		"/home/santiago/proyectos/prueba/foro/foro/urls.py",
-		"/home/santiago/proyectos/prueba/foro/chat/views.py"
+		"/home/santiago/.config/sublime-text/Packages/User/python-entornoV.sublime-build"
 	],
 	"find":
 	{
